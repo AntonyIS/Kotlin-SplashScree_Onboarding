@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TibaApp</string>
+
+<!--    slide titles-->
+    <string name="first_slide_title">Corona pandemic</string>
+    <string name="second_slide_title">Take precautions</string>
+    <string name="third_slide_title">Always wear a mask</string>
+
+<!--    slide description-->
+    <string name="first_slide_desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab aut cum minus nesciunt sapiente. Adipisci dolor eaque expedita harum illo incidunt nemo non nostrum perferendis reiciendis tempora, tempore ullam, ut!</string>
+    <string name="second_slide_desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis deserunt dolorem, doloribus eaque, facilis incidunt itaque modi necessitatibus quasi quod, ratione veritatis? Ab alias, error inventore iure praesentium quas vero?</string>
+    <string name="third_slide_desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis dicta, dignissimos distinctio earum eligendi enim modi provident quia quo, rerum saepe tenetur vitae? Beatae blanditiis cum illo iure sequi temporibus!</string>
+
+<!-- button-->
+    <string name="btn_next_slide">Next</string>
+    <string name="btn_skip_slide">Skip</string>
+    <string name="lets_get_started">Get started</string>
+</resources>
